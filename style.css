@@ -1,0 +1,53 @@
+body {
+  padding: 20px;
+}
+
+.header {
+  position: relative;
+}
+
+.logo {
+  float: left;
+  left: 50px;
+  top: 50px;
+  height: 50px;
+  width: 150px;
+}
+
+.name {
+  font-weight: bolder;
+  font-size: xx-large;
+}
+
+.mImg {
+  width: 100%;
+  height: 900px;
+}
+
+.navLogo {
+  margin: 4% 15%;
+}
+
+.containerNew {
+  margin-top: 100px;
+  clear: both;
+}
+
+.navbar-toggler {
+  margin: 5px 20px;
+}
+
+.myName {
+    display: inline;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+    margin-left: 150%;
+}
+
+.logoImg {
+  float: left;
+}
